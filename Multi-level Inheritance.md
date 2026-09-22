@@ -39,8 +39,9 @@ To write a Python program to get the name, age, and ID of a person and display t
 ### PROGRAM
 
 ```
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
+
 
 class Parent:
    def __init__(self,name):
